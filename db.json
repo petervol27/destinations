@@ -1,0 +1,25 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Israel",
+      "description": "Israel is a Middle Eastern country located on the eastern shore of the Mediterranean Sea.",
+      "score": 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChlOYKXopqiMSikVp-Tb1KDN5rVCOJijCJA&s"
+    },
+    {
+      "id": "2",
+      "name": "Netherlands",
+      "description": "The Netherlands, often referred to as Holland, is a country located in Western Europe.",
+      "score": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_AuNIkJzJueWjyYB-79-TrSLZsGRo5WyJg&s"
+    },
+    {
+      "id": "3",
+      "name": "Ukraine",
+      "description": "Ukraine is a country in Eastern Europe, the second-largest in Europe by area, after Russia.",
+      "score": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUwdSDTKX_6njIwfv-UR_rB_t0bmBFLLQmQ&s"
+    }
+  ]
+}
